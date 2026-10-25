@@ -1,4 +1,4 @@
-<img width="554" height="554" alt="lolRsa4" src="https://github.com/user-attachments/assets/537017a9-5a62-4dcb-b2ee-fa57ca681e02" />
+<img width="200" height="200" alt="lolRsa4" src="https://github.com/user-attachments/assets/537017a9-5a62-4dcb-b2ee-fa57ca681e02" />
 
 
 <!--
