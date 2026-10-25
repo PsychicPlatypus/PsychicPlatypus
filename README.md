@@ -1,4 +1,5 @@
-## Hi there 👋
+<img width="554" height="554" alt="lolRsa4" src="https://github.com/user-attachments/assets/537017a9-5a62-4dcb-b2ee-fa57ca681e02" />
+
 
 <!--
 **PsychicPlatypus/PsychicPlatypus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
